@@ -1,0 +1,79 @@
+Description,Patient,Doctor
+headache,I have a headache,"Medicine: Take Paracetamol 500mg twice daily after food. Home Remedy: Drink ginger tea and rest in a quiet dark room."
+stomach pain,My stomach is hurting,"Medicine: Take Cyclopam tablet after meals. Home Remedy: Drink fenugreek seed water early morning on an empty stomach."
+fever,I have fever and chills,"Medicine: Take Crocin 500mg every 6 hours if fever persists. Home Remedy: Drink tulsi leaves decoction twice daily."
+cough,I have a dry cough,"Medicine: Take Benadryl syrup 10ml twice daily. Home Remedy: Drink warm honey and lemon water."
+cold,I have a cold and runny nose,"Medicine: Take Cetirizine 10mg at night. Home Remedy: Do steam inhalation with eucalyptus oil."
+chest pain,I have chest pain,"Medicine: Take Ecosprin 75mg once daily (only after doctor's advice). Home Remedy: Immediate medical attention required."
+dizziness,I am feeling dizzy,"Medicine: Take ORS solution and hydrate. Home Remedy: Drink coconut water and rest."
+acidity,I have severe acidity,"Medicine: Take Gelusil 2 teaspoons after meals. Home Remedy: Drink cold milk and avoid spicy foods."
+diarrhea,I have loose motion,"Medicine: Take Norflox-TZ tablet twice a day. Home Remedy: Drink pomegranate juice and ORS water."
+vomiting,I feel like vomiting,"Medicine: Take Domstal tablet before meals. Home Remedy: Drink ginger tea or suck on ginger candy."
+throat pain,My throat is paining,"Medicine: Take Strepsils lozenges and warm water gargle. Home Remedy: Drink turmeric milk at night."
+back pain,I have back pain,"Medicine: Take Brufen 400mg after food. Home Remedy: Apply hot water bag to the lower back."
+eye redness,My eyes are red and itchy,"Medicine: Use Refresh Tears eyedrops. Home Remedy: Place cold cucumber slices on eyes."
+skin allergy,Red patches on my skin,"Medicine: Take Levocetirizine 5mg at night. Home Remedy: Apply aloe vera gel to affected area."
+constipation,I can't pass stool properly,"Medicine: Take Cremaffin syrup 10ml at night. Home Remedy: Eat papaya and drink warm water."
+indigestion,I have indigestion and gas,"Medicine: Take Digene tablet after meals. Home Remedy: Drink jeera (cumin) water after meals."
+knee pain,My knees are hurting,"Medicine: Take Calcium tablets and pain relievers. Home Remedy: Massage with warm sesame oil."
+insomnia,I can't sleep at night,"Medicine: Take Melatonin supplement (consult doctor). Home Remedy: Drink warm chamomile tea before bed."
+sore throat,I have sore throat,"Medicine: Take Azithromycin 500mg once daily for 3 days. Home Remedy: Gargle with salt warm water."
+body pain,Whole body is paining,"Medicine: Take Dolo 650mg if fever present. Home Remedy: Take warm water bath with Epsom salt."
+urinary infection,Burning sensation while urinating,"Medicine: Take Cifran 500mg twice daily. Home Remedy: Drink lots of barley water."
+pimples,I have too many pimples,"Medicine: Apply Clindamycin gel topically. Home Remedy: Apply neem paste on face."
+ears pain,My ear is paining,"Medicine: Use Ciplox ear drops. Home Remedy: Warm olive oil drops into ear."
+bleeding gums,My gums are bleeding,"Medicine: Use Hexidine mouthwash twice daily. Home Remedy: Massage gums with turmeric paste."
+anemia,I feel weak and tired,"Medicine: Take Iron supplements (Ferrous Sulphate). Home Remedy: Eat beetroot and dates daily."
+breathing difficulty,I can't breathe properly,"Medicine: Use Asthalin inhaler. Home Remedy: Sit in steamy bathroom for a few minutes."
+weight loss,I'm losing weight rapidly,"Medicine: Take multivitamin supplements. Home Remedy: Eat banana and peanut butter daily."
+weight gain,I am gaining too much weight,"Medicine: Get thyroid test done. Home Remedy: Eat fiber-rich foods and exercise daily."
+migraine,Severe migraine attack,"Medicine: Take Suminat 50mg during attacks. Home Remedy: Lie down in a dark, silent room."
+dehydration,I feel dehydrated,"Medicine: Drink ORS solution. Home Remedy: Drink buttermilk with pinch of salt."
+hair fall,My hair is falling a lot,"Medicine: Apply Minoxidil lotion (doctor's prescription). Home Remedy: Massage scalp with coconut oil."
+leg cramps,I get cramps at night,"Medicine: Take Magnesium supplements. Home Remedy: Stretch legs before sleep and stay hydrated."
+high blood pressure,My BP is very high,"Medicine: Take prescribed antihypertensive drugs. Home Remedy: Eat banana and reduce salt intake."
+low blood pressure,My BP is very low,"Medicine: Drink coffee or tea immediately. Home Remedy: Drink salted lemon water."
+piles,Bleeding while passing stool,"Medicine: Apply Anovate cream externally. Home Remedy: Sit in warm salt water bath (Sitz bath)."
+hiccups,I have continuous hiccups,"Medicine: Take Baclofen after consulting doctor. Home Remedy: Drink cold water slowly."
+painful periods,I have severe menstrual cramps,"Medicine: Take Meftal-Spas tablet. Home Remedy: Use hot water bag on lower abdomen."
+acne,I have acne problem,"Medicine: Use Benzoyl peroxide cream. Home Remedy: Apply multani mitti (fuller's earth) face pack."
+hand fracture,I think my hand is fractured,"Medicine: Immobilize hand and take painkiller. Home Remedy: Immediate hospital visit needed."
+kidney stone,Severe pain in side abdomen,"Medicine: Take prescribed painkillers. Home Remedy: Drink plenty of water and coconut water."
+appendicitis,Severe pain in lower abdomen,"Medicine: Needs surgical consultation. Home Remedy: No home remedy, hospital visit needed."
+burn injury,I burned my hand,"Medicine: Apply Silverex cream. Home Remedy: Run under cool water, avoid ice directly."
+heat stroke,Feeling dizzy due to heat,"Medicine: Rehydrate with electrolyte solution. Home Remedy: Drink aam panna (raw mango drink)."
+allergy,I have sudden allergy reaction,"Medicine: Take Avil 25mg tablet. Home Remedy: Drink cool buttermilk."
+thrush,White patches inside mouth,"Medicine: Use candid mouth paint. Home Remedy: Rinse mouth with warm salt water."
+cracked heels,My heels are cracked badly,"Medicine: Apply Scholl foot cream. Home Remedy: Apply coconut oil at night and wear socks."
+sinusitis,My nose is blocked and heavy,"Medicine: Take Sinarest tablet. Home Remedy: Do steam inhalation twice daily."
+weakness,I feel weak all the time,"Medicine: Take B-Complex vitamin tablets. Home Remedy: Drink banana and milk smoothie."
+heartburn,I have burning sensation in chest,"Medicine: Take Rantac 150mg before meals. Home Remedy: Drink cold aloe vera juice."
+mouth ulcers,I have ulcers in my mouth,"Medicine: Apply Zytee gel on ulcers. Home Remedy: Drink cold buttermilk and avoid spicy food."
+fracture,My leg is fractured,"Medicine: Immobilize with splint and painkillers. Home Remedy: Hospital visit is must."
+stress,I'm feeling mentally stressed,"Medicine: Consult doctor if severe. Home Remedy: Practice deep breathing and meditation."
+depression,I feel very low and sad,"Medicine: Take counseling and doctor's help. Home Remedy: Daily morning walk and sunlight exposure."
+food poisoning,I have vomiting after eating outside,"Medicine: Take Ondem tablet. Home Remedy: Drink ORS solution and avoid solid food for a day."
+arthritis,My joints are paining,"Medicine: Take prescribed NSAIDs. Home Remedy: Apply hot packs to joints and turmeric milk."
+bronchitis,I'm coughing with mucus,"Medicine: Take Mucolite syrup. Home Remedy: Steam inhalation and ginger tea."}
+Common Day-to-Day Ailments and Natural Treatments
+Ailment,Natural Treatment,Dosage/Frequency
+Headache,Peppermint oil + Ginger tea,2 drops on temples + 1 cup ginger tea (1-inch root) 2x/day
+Common Cold,Turmeric milk + Steam inhalation,½ tsp turmeric in warm milk at night + Steam with 2 drops eucalyptus oil 2x/day
+Indigestion,Ajwain water + Ginger,1 tsp ajwain soaked overnight (morning) + 1-inch ginger chew before meals
+Insomnia,Chamomile tea + Warm milk,1 cup chamomile tea + 1 cup milk with ¼ tsp nutmeg at bedtime
+Muscle Pain,Epsom salt bath + Turmeric paste,2 cups salts in bath water + 1 tsp turmeric paste on affected area
+Stress/Anxiety,Ashwagandha + Meditation,½ tsp ashwagandha in milk at night + 10 mins meditation daily
+Seasonal Allergies,Local honey + Nettle tea,1 tsp raw local honey daily + 1 cup nettle tea 2x/day
+Mouth Ulcers,Coconut oil + Turmeric,1 tbsp oil pulling 10 mins + turmeric-honey paste applied 3x/day
+Work Fatigue,Ginseng tea + Walnuts,1 cup ginseng tea morning + 5-6 soaked walnuts daily
+Eye Strain,Rose water + Cucumber,2 drops rose water in eyes + cool slices for 10 mins 2x/day
+Travel Sickness,Ginger + Peppermint,1-inch ginger chew before travel + peppermint oil sniffing during trip
+Hangover,Coconut water + Banana,500ml coconut water + 2 ripe bananas on empty stomach
+Acid Reflux,Aloe vera juice + Fennel,¼ cup aloe juice before meals + 1 tsp fennel seeds after eating
+Dry Skin,Coconut oil + Honey mask,1 tbsp oil massage daily + honey mask (1 tsp) 2x/week
+Hair Fall,Onion juice + Fenugreek,2 tbsp onion juice scalp massage 3x/week + fenugreek paste 1x/week
+Menstrual Cramps,Ginger tea + Heat pad,1 cup ginger tea 3x/day + warm compress on abdomen
+Low Immunity,Chyawanprash + Citrus fruits,1 tsp chyawanprash morning + 1 citrus fruit daily
+Bloating,Peppermint tea + Fennel,1 cup peppermint tea 2x/day + ½ tsp fennel seeds after meals
+Sunburn,Aloe vera + Coconut water,Fresh aloe gel applied 3x/day + 2 glasses coconut water daily
+Bad Breath,Cloves + Parsley,2 cloves chewed after meals + parsley leaves as garnish
