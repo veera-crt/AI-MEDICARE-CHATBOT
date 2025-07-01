@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const typingIndicator = showTypingIndicator();
         
         try {
-            const response = await fetch('http://localhost:5001/chat', {
+            const response = await fetch('https://ai-medicare-chatbot.onrender.com/chat', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
