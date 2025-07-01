@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initial bot message
     setTimeout(() => {
         document.querySelector('.typing-animation').remove();
-        addBotMessage("🤖 Hello! I'm MediCare Bot. I can help with medical-related queries. 💬 Type with "\pain\" suffix or speak your health question.");
+        addBotMessage("🤖 Hello! I'm MediCare Bot. I can help with medical-related queries. 💬 Type with >pain< suffix or speak your health question.");
     }, 1500);
     
     function addBotMessage(text) {
